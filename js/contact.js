@@ -1,6 +1,6 @@
-/* ===== CONFIGURACIÓN DE CONTACTO (reemplazar por datos reales si se desea) ===== */
+/* ===== CONFIGURACIÓN DE CONTACTO ===== */
 window.KUBO = {
-  cfg: { whatsapp: '529981234567', email: 'contacto@kuboadministracion.mx', formEndpoint: '/api/contacto' },
+  cfg: { whatsapp: '529981293380', email: 'contacto@kuboadministracion.com', formEndpoint: '/api/contacto' },
   openWA: function (u) { window.open(u, '_blank', 'noopener'); },
   openMail: function (u) { window.location.href = u; }
 };
